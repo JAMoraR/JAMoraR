@@ -16,6 +16,7 @@
 📝 roles en el ámbito: desarrollador.. programador frontend...
 
 📫 Contacto: **contacto@jamorar.dev**
+
 💼 Portafolio: https://jamorar.dev
 <!--Intro end-->
   </p>
