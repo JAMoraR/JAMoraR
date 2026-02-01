@@ -17,7 +17,7 @@
 
 📫 Contacto: **contacto@jamorar.dev**
 
-💼 Portafolio: https://jamorar.dev
+💼 Portafolio: <a href="https://jamorar.dev" target="blank">**https://jamorar.dev**</a>
 <!--Intro end-->
   </p>
 <br>
