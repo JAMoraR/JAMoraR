@@ -11,11 +11,12 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 ESTUDIANDO DESARROLLO DE SOFTWARE
+🎓 ESTUDIANDO SISTEMAS COMPUTACIONALES
 
-📝 roles en el ámbito: desarrollador.. programador freelance... y en un futuro quién sabe
+📝 roles en el ámbito: desarrollador.. programador frontend...
 
-📫 Contacto: **angelpordiez@gmail.com**
+📫 Contacto: **contacto@jamorar.dev**
+💼 Portafolio: https://jamorar.dev
 <!--Intro end-->
   </p>
 <br>
