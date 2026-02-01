@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋  soy José / JAMoraR ✨ </h1> 
 
 <p align="left">
-<a href="https://www.instagram.com/josemorardg/" target="blank"><img align="center"
+<a href="https://www.instagram.com/josemorardg/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
 <a href = "mailto:contacto@jamorar.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
@@ -17,7 +17,7 @@
 
 📫 Contacto: **contacto@jamorar.dev**
 
-💼 Portafolio: <a href="https://jamorar.dev" target="blank">**https://jamorar.dev**</a>
+💼 Portafolio: <a href="https://jamorar.dev" target="_blank">**https://jamorar.dev**</a>
 <!--Intro end-->
   </p>
 <br>
